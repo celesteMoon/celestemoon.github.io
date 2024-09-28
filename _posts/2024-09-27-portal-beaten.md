@@ -6,4 +6,4 @@ categories:
   - Gaming
 ---
 Time elapsed: 4.3h
-![portal beaten](/blog/2024-09-27-portal-beaten-fig1.jpg)
+![portal beaten](/blog/images/2024-09-27-portal-beaten-fig1.jpg)
