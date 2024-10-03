@@ -5,7 +5,7 @@ description: The cake is a lie.
 categories:
   - Gaming
 ---
-Time elapsed: 4.3h
+Time elapsed: 4.3h 8716239172307123908123
 ![portal beaten](https://cdn.jsdelivr.net/gh/celestemoon/CDN/blog/images/2024-09-27-portal-beaten-fig1.jpg)
 
 <script src="https://giscus.app/client.js"
